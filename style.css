@@ -263,6 +263,17 @@ footer{
     margin-top: 48px;
     margin-bottom: 45px;
 }
+input{
+    width: 100%;
+    background-color: #ffffff;
+    height: 100%;
+    border: none;
+    padding-left: 10px;
+    border-width: 0px;
+}
+input:focus{
+    outline:none;
+}
 @media(min-width: 1440px){
     .logo{
         width: 240px;
